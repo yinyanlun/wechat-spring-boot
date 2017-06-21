@@ -1,7 +1,7 @@
 # wechat-spring-boot
 微信公众号开发
 主体框架：
-spring boot jpa freemarker试图 shiro安全  druid垃圾池
+spring boot spring data jpa 持久层 freemarker试图 shiro安全  druid连接池
 
 
 
